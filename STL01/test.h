@@ -33,4 +33,4 @@ void test02() {
 	}*/
 	//第三种方式
 	for_each(v.begin(), v.end(),myPrint);
-}					  
+}					    
